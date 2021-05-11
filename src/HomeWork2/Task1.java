@@ -1,6 +1,7 @@
-package HomeWork;
+package HomeWork2;
 import java.util.Scanner;
-/*Вывести пирамиду из цифр. Размер вводится пользователем. Пирамида - фигура такого вида:*/
+/*Вывести пирамиду из цифр. Размер вводится пользователем.
+ Пирамида - фигура такого вида:*/
 public class Task1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
